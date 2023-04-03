@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "nodemon app.js",
     "start": "node app.js",
-    "build" : "yarn i"
+    "build" : "npm i"
   },
   "dependencies": {
     "cors": "^2.8.5",
